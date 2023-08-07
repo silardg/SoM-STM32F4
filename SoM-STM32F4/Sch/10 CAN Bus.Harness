@@ -1,0 +1,2 @@
+CAN=TX,RX
+CAN Bus=CANH,CANL
