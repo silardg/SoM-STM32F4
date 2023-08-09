@@ -1,0 +1,19 @@
+Added Component: Designator=R38(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-074K7L"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RESC1005X04M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "RC0402FR-074K7L"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=I2C2_SDA Pin=R38-1
+Added Pin To Net: NetName=+3V3 Pin=R38-2
+Added Pin To Net: NetName=I2C2_SCL Pin=R39-1
+Added Pin To Net: NetName=+3V3 Pin=R39-2
+Add Pin To Net: Unknown Pin: Pin U9-D6
+Add Pin To Net: Unknown Pin: Pin U9-J1
+Add Pin To Net: Unknown Pin: Pin U9-N1
+Add Pin To Net: Unknown Pin: Pin U9-P1
+Added Member To Class: ClassName=08 Secure Element Member=Component R38 4.7k/1%
+Added Member To Class: ClassName=08 Secure Element Member=Component R39 4.7k/1%
+Add Class Member: Failed to add class member : Component U9 STM32F429IIH6
