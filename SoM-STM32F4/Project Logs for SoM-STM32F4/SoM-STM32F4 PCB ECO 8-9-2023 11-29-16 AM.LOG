@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC1005X06M-0402 New Footprint=CAPC2012X14M
+Change Component Footprint: Designator=L1 Old Footprint=XGL4015-471MEC New Footprint=INDC200x160-2016
+Change Component Comment : Designator=L1 Old Comment=0.47uH/7.5mOhm New Comment=0.47uH/40mOhm
+Change Component Comment : Designator=C1 Old Comment=4.7uF/6.3V New Comment=4.7uF/16V
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC1005X06M-0402"; UniqueID = "\FROCKSSS" ("\FROCKSSS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM21BR71C475KE51-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM21BR71C475KE51L"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1" ("L1"); Footprint = "XGL4015-471MEC"; UniqueID = "\AIRKPMJM" ("\AIRKPMJM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://media.digikey.com/pdf/Data%20Sheets/Bourns%20PDFs/SRP2010DPA_Series_DS.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "SRP2010DPA-R47M"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U9-D6
+Add Pin To Net: Unknown Pin: Pin U9-J1
+Add Pin To Net: Unknown Pin: Pin U9-N1
+Add Pin To Net: Unknown Pin: Pin U9-P1
+Add Class Member: Failed to add class member : Component U9 STM32F429IIH6
+Added Room: Name=03 POWER

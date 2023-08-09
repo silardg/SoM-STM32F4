@@ -1,0 +1,16 @@
+Add Pin To Net: Unknown Pin: Pin U9-D6
+Add Pin To Net: Unknown Pin: Pin U9-J1
+Add Pin To Net: Unknown Pin: Pin U9-N1
+Add Pin To Net: Unknown Pin: Pin U9-P1
+Added Class: Name=SDRAM
+Add Class Member: Failed to add class member : Component U9 STM32F429IIH6
+Added Room: Name=03 POWER
+Added Room: Name=04-1 MCU
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=06 NOR Memory
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR

@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2012X14M New Footprint=CAPC1608X10M-0603
+Change Component Comment : Designator=C1 Old Comment=4.7uF/16V New Comment=4.7uF/10V
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPC2012X14M"; UniqueID = "\IVXFXPAW" ("\IVXFXPAW")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J476ME15-01.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "GRM188C71A475KE11D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin U9-D6
+Add Pin To Net: Unknown Pin: Pin U9-J1
+Add Pin To Net: Unknown Pin: Pin U9-N1
+Add Pin To Net: Unknown Pin: Pin U9-P1
+Add Class Member: Failed to add class member : Component U9 STM32F429IIH6
+Added Room: Name=03 POWER
