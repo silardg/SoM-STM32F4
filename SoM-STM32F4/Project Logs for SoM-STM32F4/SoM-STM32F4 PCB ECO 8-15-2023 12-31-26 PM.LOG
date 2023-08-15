@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Added Component: Designator=U3(BGA180C100P10X18_1400X1400X140)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.issi.com/WW/pdf/21-22TF08G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "IS21TF08G-JQLI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=U3-E4
+Added Pin To Net: NetName=+3V3 Pin=U3-F2
+Added Pin To Net: NetName=+3V3 Pin=U3-F3
+Added Pin To Net: NetName=+3V3 Pin=U3-F4
+Added Pin To Net: NetName=+3V3 Pin=U3-F5
+Added Pin To Net: NetName=+3V3 Pin=U3-F6
+Added Pin To Net: NetName=+3V3 Pin=U3-F7
+Added Pin To Net: NetName=+3V3 Pin=U3-F8
+Added Pin To Net: NetName=+3V3 Pin=U3-F9
+Added Pin To Net: NetName=GND Pin=U3-G2
+Added Pin To Net: NetName=GND Pin=U3-G3
+Added Pin To Net: NetName=GND Pin=U3-G4
+Added Pin To Net: NetName=GND Pin=U3-G5
+Added Pin To Net: NetName=GND Pin=U3-G6
+Added Pin To Net: NetName=GND Pin=U3-G7
+Added Pin To Net: NetName=GND Pin=U3-G8
+Added Pin To Net: NetName=GND Pin=U3-G9
+Added Pin To Net: NetName=GND Pin=U3-H2
+Added Pin To Net: NetName=+3V3 Pin=U3-H3
+Added Pin To Net: NetName=+3V3 Pin=U3-H8
+Added Pin To Net: NetName=GND Pin=U3-H9
+Added Pin To Net: NetName=GND Pin=U3-J5
+Added Pin To Net: NetName=NetR28_2 Pin=U3-K2
+Added Pin To Net: NetName=NetR30_2 Pin=U3-K3
+Added Pin To Net: NetName=eMMC_DS Pin=U3-K5
+Added Pin To Net: NetName=NetR33_2 Pin=U3-K8
+Added Pin To Net: NetName=NetR35_2 Pin=U3-K9
+Added Pin To Net: NetName=+3V3 Pin=U3-L2
+Added Pin To Net: NetName=GND Pin=U3-L3
+Added Pin To Net: NetName=+3V3 Pin=U3-L4
+Added Pin To Net: NetName=+3V3 Pin=U3-L7
+Added Pin To Net: NetName=GND Pin=U3-L8
+Added Pin To Net: NetName=+3V3 Pin=U3-L9
+Added Pin To Net: NetName=GND Pin=U3-M4
+Added Pin To Net: NetName=eMMC_RSTN Pin=U3-M5
+Added Pin To Net: NetName=GND Pin=U3-M7
+Added Pin To Net: NetName=NetR29_2 Pin=U3-N2
+Added Pin To Net: NetName=NetR31_2 Pin=U3-N3
+Added Pin To Net: NetName=NetR32_2 Pin=U3-N8
+Added Pin To Net: NetName=NetR34_2 Pin=U3-N9
+Added Pin To Net: NetName=GND Pin=U3-P2
+Added Pin To Net: NetName=+3V3 Pin=U3-P3
+Added Pin To Net: NetName=NetR36_2 Pin=U3-P5
+Added Pin To Net: NetName=NetR37_2 Pin=U3-P6
+Added Pin To Net: NetName=+3V3 Pin=U3-P8
+Added Pin To Net: NetName=GND Pin=U3-P9
+Added Member To Class: ClassName=07 eMMC Member=Component U3 IS21TF08G-JQLI
+Added Room: Name=07 eMMC

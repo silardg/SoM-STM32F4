@@ -1,0 +1,113 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=+3V3 Pin=C15-2
+Removed Pin From Net: NetName=NetR28_2 Pin=U4-A3
+Removed Pin From Net: NetName=NetR29_2 Pin=U4-A4
+Removed Pin From Net: NetName=NetR30_2 Pin=U4-A5
+Removed Pin From Net: NetName=GND Pin=U4-A6
+Removed Pin From Net: NetName=NetR31_2 Pin=U4-B2
+Removed Pin From Net: NetName=NetR32_2 Pin=U4-B3
+Removed Pin From Net: NetName=NetR33_2 Pin=U4-B4
+Removed Pin From Net: NetName=NetR34_2 Pin=U4-B5
+Removed Pin From Net: NetName=NetR35_2 Pin=U4-B6
+Removed Pin From Net: NetName=+3V3 Pin=U4-C2
+Removed Pin From Net: NetName=GND Pin=U4-C4
+Removed Pin From Net: NetName=+3V3 Pin=U4-C6
+Removed Pin From Net: NetName=+3V3 Pin=U4-E6
+Removed Pin From Net: NetName=GND Pin=U4-E7
+Removed Pin From Net: NetName=+3V3 Pin=U4-F5
+Removed Pin From Net: NetName=GND Pin=U4-G5
+Removed Pin From Net: NetName=eMMC_DS Pin=U4-H5
+Removed Pin From Net: NetName=GND Pin=U4-H10
+Removed Pin From Net: NetName=GND Pin=U4-J5
+Removed Pin From Net: NetName=+3V3 Pin=U4-J10
+Removed Pin From Net: NetName=eMMC_RSTN Pin=U4-K5
+Removed Pin From Net: NetName=GND Pin=U4-K8
+Removed Pin From Net: NetName=+3V3 Pin=U4-K9
+Removed Pin From Net: NetName=+3V3 Pin=U4-M4
+Removed Pin From Net: NetName=NetR36_2 Pin=U4-M5
+Removed Pin From Net: NetName=NetR37_2 Pin=U4-M6
+Removed Pin From Net: NetName=GND Pin=U4-N2
+Removed Pin From Net: NetName=+3V3 Pin=U4-N4
+Removed Pin From Net: NetName=GND Pin=U4-N5
+Removed Pin From Net: NetName=+3V3 Pin=U4-P3
+Removed Pin From Net: NetName=GND Pin=U4-P4
+Removed Pin From Net: NetName=+3V3 Pin=U4-P5
+Removed Pin From Net: NetName=GND Pin=U4-P6
+Removed Member From Class: ClassName=07 eMMC Member=C15
+Removed Member From Class: ClassName=07 eMMC Member=U4
+Added Component: Designator=C?(CAPC1005X06M-0402)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM155R60J475ME47-01.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "GRM155R60J475ME47D"; VariantName = "[No Variations]"
+Added Component: Designator=U?(BGA180C100P10X18_1400X1400X140)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.issi.com/WW/pdf/21-22TF08G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "IS21TF08G-JQLI"; VariantName = "[No Variations]"
+Added Component: Designator=U?(BGA180C100P10X18_1400X1400X140)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.issi.com/WW/pdf/21-22TF08G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "IS21TF08G-JQLI"; VariantName = "[No Variations]"
+Added Component: Designator=U?(BGA180C100P10X18_1400X1400X140)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.issi.com/WW/pdf/21-22TF08G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "IS21TF08G-JQLI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=+3V3 Pin=C?-2
+Added Pin To Net: NetName=+3V3 Pin=U?-E4
+Added Pin To Net: NetName=+3V3 Pin=U?-F2
+Added Pin To Net: NetName=+3V3 Pin=U?-F3
+Added Pin To Net: NetName=+3V3 Pin=U?-F4
+Added Pin To Net: NetName=+3V3 Pin=U?-F5
+Added Pin To Net: NetName=+3V3 Pin=U?-F6
+Added Pin To Net: NetName=+3V3 Pin=U?-F7
+Added Pin To Net: NetName=+3V3 Pin=U?-F8
+Added Pin To Net: NetName=+3V3 Pin=U?-F9
+Added Pin To Net: NetName=GND Pin=U?-G2
+Added Pin To Net: NetName=GND Pin=U?-G3
+Added Pin To Net: NetName=GND Pin=U?-G4
+Added Pin To Net: NetName=GND Pin=U?-G5
+Added Pin To Net: NetName=GND Pin=U?-G6
+Added Pin To Net: NetName=GND Pin=U?-G7
+Added Pin To Net: NetName=GND Pin=U?-G8
+Added Pin To Net: NetName=GND Pin=U?-G9
+Added Pin To Net: NetName=GND Pin=U?-H2
+Added Pin To Net: NetName=+3V3 Pin=U?-H3
+Added Pin To Net: NetName=+3V3 Pin=U?-H8
+Added Pin To Net: NetName=GND Pin=U?-H9
+Added Pin To Net: NetName=GND Pin=U?-J5
+Added Pin To Net: NetName=NetR28_2 Pin=U?-K2
+Added Pin To Net: NetName=NetR30_2 Pin=U?-K3
+Added Pin To Net: NetName=eMMC_DS Pin=U?-K5
+Added Pin To Net: NetName=NetR33_2 Pin=U?-K8
+Added Pin To Net: NetName=NetR35_2 Pin=U?-K9
+Added Pin To Net: NetName=+3V3 Pin=U?-L2
+Added Pin To Net: NetName=GND Pin=U?-L3
+Added Pin To Net: NetName=+3V3 Pin=U?-L4
+Added Pin To Net: NetName=+3V3 Pin=U?-L7
+Added Pin To Net: NetName=GND Pin=U?-L8
+Added Pin To Net: NetName=+3V3 Pin=U?-L9
+Added Pin To Net: NetName=GND Pin=U?-M4
+Added Pin To Net: NetName=eMMC_RSTN Pin=U?-M5
+Added Pin To Net: NetName=GND Pin=U?-M7
+Added Pin To Net: NetName=NetR29_2 Pin=U?-N2
+Added Pin To Net: NetName=NetR31_2 Pin=U?-N3
+Added Pin To Net: NetName=NetR32_2 Pin=U?-N8
+Added Pin To Net: NetName=NetR34_2 Pin=U?-N9
+Added Pin To Net: NetName=GND Pin=U?-P2
+Added Pin To Net: NetName=+3V3 Pin=U?-P3
+Added Pin To Net: NetName=NetR36_2 Pin=U?-P5
+Added Pin To Net: NetName=NetR37_2 Pin=U?-P6
+Added Pin To Net: NetName=+3V3 Pin=U?-P8
+Added Pin To Net: NetName=GND Pin=U?-P9
+Added Member To Class: ClassName=07 eMMC Member=Component C? 4.7uF/6.3V
+Added Member To Class: ClassName=07 eMMC Member=Component U? IS21TF08G-JQLI
+Added Member To Class: ClassName=07 eMMC Member=Component U? IS21TF08G-JQLI
+Added Member To Class: ClassName=07 eMMC Member=Component U? IS21TF08G-JQLI
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR

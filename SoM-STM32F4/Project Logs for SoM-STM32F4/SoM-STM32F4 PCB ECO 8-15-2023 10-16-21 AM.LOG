@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=SDRAM Member=FMC_A12
+Removed Member From Class: ClassName=SDRAM Member=FMC_A13
+Removed Member From Class: ClassName=SDRAM Member=FMC_A16
+Removed Member From Class: ClassName=SDRAM Member=FMC_A17
+Removed Member From Class: ClassName=SDRAM Member=FMC_A18
+Removed Member From Class: ClassName=SDRAM Member=FMC_A19
+Removed Member From Class: ClassName=SDRAM Member=FMC_NE1
+Removed Member From Class: ClassName=SDRAM Member=FMC_NOE
+Removed Member From Class: ClassName=SDRAM Member=FMC_NWE
+Removed Member From Class: ClassName=SDRAM Member=NOR_BYTE#
+Removed Member From Class: ClassName=SDRAM Member=NOR_RESET#
+Removed Member From Class: ClassName=SDRAM Member=NOR_RY/BY#
+Removed Member From Class: ClassName=SDRAM Member=NOR_WP#
+Added Class: Name=NOR
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=06 NOR Memory
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR

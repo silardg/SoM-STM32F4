@@ -1,0 +1,21 @@
+Added Class: Name=eMMC
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_CLK
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_CMD
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT0
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT1
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT2
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT3
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT4
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT5
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT6
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT7
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DS
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_RSTN
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR

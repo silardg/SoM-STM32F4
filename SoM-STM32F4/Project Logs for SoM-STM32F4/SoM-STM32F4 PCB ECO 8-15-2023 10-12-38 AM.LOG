@@ -1,0 +1,72 @@
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Member To Class: ClassName=50OHM Member=Element[7]: FMC_A
+Added Member To Class: ClassName=SDRAM Member=Element[7]: FMC_A
+Added Member To Class: ClassName=50OHM Member=Element[6]: FMC_A
+Added Member To Class: ClassName=SDRAM Member=Element[6]: FMC_A
+Added Member To Class: ClassName=50OHM Member=Element[3]: FMC_A
+Added Member To Class: ClassName=SDRAM Member=Element[3]: FMC_A
+Added Member To Class: ClassName=50OHM Member=Element[2]: FMC_A
+Added Member To Class: ClassName=SDRAM Member=Element[2]: FMC_A
+Added Member To Class: ClassName=50OHM Member=Element[1]: FMC_A
+Added Member To Class: ClassName=SDRAM Member=Element[1]: FMC_A
+Added Member To Class: ClassName=50OHM Member=Element[0]: FMC_A
+Added Member To Class: ClassName=SDRAM Member=Element[0]: FMC_A
+Added Member To Class: ClassName=50OHM Member=Wire FMC_NE1
+Added Member To Class: ClassName=SDRAM Member=Wire FMC_NE1
+Added Member To Class: ClassName=50OHM Member=Wire FMC_NOE
+Added Member To Class: ClassName=SDRAM Member=Wire FMC_NOE
+Added Member To Class: ClassName=50OHM Member=Wire FMC_NWE
+Added Member To Class: ClassName=SDRAM Member=Wire FMC_NWE
+Added Member To Class: ClassName=50OHM Member=Wire NOR_BYTE#
+Added Member To Class: ClassName=SDRAM Member=Wire NOR_BYTE#
+Added Member To Class: ClassName=50OHM Member=Wire NOR_RESET#
+Added Member To Class: ClassName=SDRAM Member=Wire NOR_RESET#
+Added Member To Class: ClassName=50OHM Member=Wire NOR_RY/BY#
+Added Member To Class: ClassName=SDRAM Member=Wire NOR_RY/BY#
+Added Member To Class: ClassName=50OHM Member=Wire NOR_WP#
+Added Member To Class: ClassName=SDRAM Member=Wire NOR_WP#
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=06 NOR Memory
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR
