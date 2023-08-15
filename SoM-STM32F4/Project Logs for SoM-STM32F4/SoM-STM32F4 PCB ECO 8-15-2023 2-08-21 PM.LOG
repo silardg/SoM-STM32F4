@@ -1,0 +1,19 @@
+Added Class: Name=RMII
+Added Member To Class: ClassName=50OHM Member=Wire ETH_CRS_DV
+Added Member To Class: ClassName=50OHM Member=Wire ETH_MDC
+Added Member To Class: ClassName=50OHM Member=Wire ETH_MDIO
+Added Member To Class: ClassName=50OHM Member=Wire ETH_REF_CLK
+Added Member To Class: ClassName=50OHM Member=Wire ETH_RXD0
+Added Member To Class: ClassName=50OHM Member=Wire ETH_RXD1
+Added Member To Class: ClassName=50OHM Member=Wire ETH_TX_EN
+Added Member To Class: ClassName=50OHM Member=Wire ETH_TXD0
+Added Member To Class: ClassName=50OHM Member=Wire ETH_TXD1
+Added Member To Class: ClassName=50OHM Member=Wire RMII_RSTn
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR

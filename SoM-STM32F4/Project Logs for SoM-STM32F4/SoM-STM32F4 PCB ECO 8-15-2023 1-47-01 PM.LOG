@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=eMMC_DAT0 Pin=R28-1
+Removed Pin From Net: NetName=eMMC_DAT1 Pin=R29-1
+Removed Pin From Net: NetName=eMMC_DAT2 Pin=R30-1
+Removed Pin From Net: NetName=eMMC_DAT3 Pin=R31-1
+Removed Pin From Net: NetName=eMMC_DAT4 Pin=R32-1
+Removed Pin From Net: NetName=eMMC_DAT5 Pin=R33-1
+Removed Pin From Net: NetName=eMMC_DAT6 Pin=R34-1
+Removed Pin From Net: NetName=eMMC_DAT7 Pin=R35-1
+Removed Pin From Net: NetName=eMMC_CMD Pin=R36-1
+Removed Pin From Net: NetName=eMMC_CLK Pin=R37-1
+Removed Member From Class: ClassName=07 eMMC Member=R28
+Removed Member From Class: ClassName=07 eMMC Member=R29
+Removed Member From Class: ClassName=07 eMMC Member=R30
+Removed Member From Class: ClassName=07 eMMC Member=R31
+Removed Member From Class: ClassName=07 eMMC Member=R32
+Removed Member From Class: ClassName=07 eMMC Member=R33
+Removed Member From Class: ClassName=07 eMMC Member=R34
+Removed Member From Class: ClassName=07 eMMC Member=R35
+Removed Member From Class: ClassName=07 eMMC Member=R36
+Removed Member From Class: ClassName=07 eMMC Member=R37
+Removed Member From Class: ClassName=50OHM Member=eMMC_CLK_I
+Removed Member From Class: ClassName=50OHM Member=eMMC_CMD_I
+Removed Member From Class: ClassName=50OHM Member=eMMC_DAT0_I
+Removed Member From Class: ClassName=50OHM Member=eMMC_DAT1_I
+Removed Member From Class: ClassName=50OHM Member=eMMC_DAT2_I
+Removed Member From Class: ClassName=50OHM Member=eMMC_DAT3_I
+Removed Member From Class: ClassName=50OHM Member=eMMC_DAT4_I
+Removed Member From Class: ClassName=50OHM Member=eMMC_DAT5_I
+Removed Member From Class: ClassName=50OHM Member=eMMC_DAT6_I
+Removed Member From Class: ClassName=50OHM Member=eMMC_DAT7_I
+Added Pin To Net: NetName=eMMC_DAT0 Pin=U3-K2
+Added Pin To Net: NetName=eMMC_DAT2 Pin=U3-K3
+Added Pin To Net: NetName=eMMC_DAT5 Pin=U3-K8
+Added Pin To Net: NetName=eMMC_DAT7 Pin=U3-K9
+Added Pin To Net: NetName=eMMC_DAT1 Pin=U3-N2
+Added Pin To Net: NetName=eMMC_DAT3 Pin=U3-N3
+Added Pin To Net: NetName=eMMC_DAT4 Pin=U3-N8
+Added Pin To Net: NetName=eMMC_DAT6 Pin=U3-N9
+Added Pin To Net: NetName=eMMC_CMD Pin=U3-P5
+Added Pin To Net: NetName=eMMC_CLK Pin=U3-P6
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR
