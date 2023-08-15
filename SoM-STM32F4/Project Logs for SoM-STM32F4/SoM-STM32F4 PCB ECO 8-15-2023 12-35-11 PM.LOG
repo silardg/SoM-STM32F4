@@ -1,0 +1,29 @@
+Change Net Name : Old Net Name=NetR28_2 New Net Name=eMMC_DAT0_I
+Change Net Name : Old Net Name=NetR29_2 New Net Name=eMMC_DAT1_I
+Change Net Name : Old Net Name=NetR30_2 New Net Name=eMMC_DAT2_I
+Change Net Name : Old Net Name=NetR31_2 New Net Name=eMMC_DAT3_I
+Change Net Name : Old Net Name=NetR32_2 New Net Name=eMMC_DAT4_I
+Change Net Name : Old Net Name=NetR33_2 New Net Name=eMMC_DAT5_I
+Change Net Name : Old Net Name=NetR34_2 New Net Name=eMMC_DAT6_I
+Change Net Name : Old Net Name=NetR35_2 New Net Name=eMMC_DAT7_I
+Change Net Name : Old Net Name=NetR36_2 New Net Name=eMMC_CMD_I
+Change Net Name : Old Net Name=NetR37_2 New Net Name=eMMC_CLK_I
+Added Class: Name=eMMC_internal
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_CLK_I
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_CMD_I
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT0_I
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT1_I
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT2_I
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT3_I
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT4_I
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT5_I
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT6_I
+Added Member To Class: ClassName=50OHM Member=Wire eMMC_DAT7_I
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR
