@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SYS_JTRST Pin=J2-20
+Removed Pin From Net: NetName=SYS_JTDI Pin=J2-22
+Removed Pin From Net: NetName=SYS_JTDO_SWO Pin=J2-24
+Added Pin To Net: NetName=SYS_JTDI Pin=J2-20
+Added Pin To Net: NetName=SYS_JTDO_SWO Pin=J2-22
+Added Pin To Net: NetName=SYS_JTRST Pin=J2-24
