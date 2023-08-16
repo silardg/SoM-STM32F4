@@ -1,0 +1,68 @@
+Added Member To Class: ClassName=CLEAR Member=Wire ADC1_IN8
+Added Member To Class: ClassName=CLEAR Member=Wire ADC1_IN9
+Added Member To Class: ClassName=CLEAR Member=Wire ADC2_IN0
+Added Member To Class: ClassName=CLEAR Member=Wire ADC2_IN6
+Added Member To Class: ClassName=CLEAR Member=Wire ADC3_IN6
+Added Member To Class: ClassName=CLEAR Member=Wire ADC3_IN7
+Added Member To Class: ClassName=CLEAR Member=Wire ADC3_IN8
+Added Member To Class: ClassName=CLEAR Member=Wire CAN_H
+Added Member To Class: ClassName=CLEAR Member=Wire CAN_L
+Added Member To Class: ClassName=CLEAR Member=Wire CAN_SPLIT
+Added Member To Class: ClassName=CLEAR Member=Wire DAC_EXTI9
+Added Member To Class: ClassName=CLEAR Member=Wire DAC_OUT1
+Added Member To Class: ClassName=CLEAR Member=Wire DAC_OUT2
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_CLK
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_CMD
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_DAT0
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_DAT1
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_DAT2
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_DAT3
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_DAT4
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_DAT5
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_DAT6
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_DAT7
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_DS
+Added Member To Class: ClassName=CLEAR Member=Wire eMMC_RSTN
+Added Member To Class: ClassName=CLEAR Member=Wire ETH_CRS_DV
+Added Member To Class: ClassName=CLEAR Member=Wire ETH_MDC
+Added Member To Class: ClassName=CLEAR Member=Wire ETH_MDIO
+Added Member To Class: ClassName=CLEAR Member=Wire ETH_REF_CLK
+Added Member To Class: ClassName=CLEAR Member=Wire ETH_RXD0
+Added Member To Class: ClassName=CLEAR Member=Wire ETH_RXD1
+Added Member To Class: ClassName=CLEAR Member=Wire ETH_TX_EN
+Added Member To Class: ClassName=CLEAR Member=Wire ETH_TXD0
+Added Member To Class: ClassName=CLEAR Member=Wire ETH_TXD1
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_LED1
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_LED2
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_RX_N
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_RX_P
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_TX_N
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_TX_P
+Added Member To Class: ClassName=CLEAR Member=Wire I2C2_SCL
+Added Member To Class: ClassName=CLEAR Member=Wire I2C2_SDA
+Added Member To Class: ClassName=CLEAR Member=Wire PE2
+Added Member To Class: ClassName=CLEAR Member=Wire PE4
+Added Member To Class: ClassName=CLEAR Member=Wire PE5
+Added Member To Class: ClassName=CLEAR Member=Wire PE6
+Added Member To Class: ClassName=CLEAR Member=Wire RMII_RSTn
+Added Member To Class: ClassName=CLEAR Member=Wire SPI2_CE0
+Added Member To Class: ClassName=CLEAR Member=Wire SPI2_CE1
+Added Member To Class: ClassName=CLEAR Member=Wire SPI2_MISO
+Added Member To Class: ClassName=CLEAR Member=Wire SPI2_MOSI
+Added Member To Class: ClassName=CLEAR Member=Wire SPI2_SCK
+Added Member To Class: ClassName=CLEAR Member=Wire STM_NRST
+Added Member To Class: ClassName=CLEAR Member=Wire SYS_JTCK_SWCLK
+Added Member To Class: ClassName=CLEAR Member=Wire SYS_JTDI
+Added Member To Class: ClassName=CLEAR Member=Wire SYS_JTDO_SWO
+Added Member To Class: ClassName=CLEAR Member=Wire SYS_JTMS_SWDIO
+Added Member To Class: ClassName=CLEAR Member=Wire SYS_JTRST
+Added Member To Class: ClassName=CLEAR Member=Wire UART7_RX
+Added Member To Class: ClassName=CLEAR Member=Wire UART7_TX
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR
