@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=UART7_RX Pin=J1-3
+Removed Pin From Net: NetName=I2C2_SCL Pin=J1-4
+Removed Pin From Net: NetName=UART7_TX Pin=J1-5
+Removed Pin From Net: NetName=I2C2_SDA Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=I2C2_SCL Pin=J1-5
+Added Pin To Net: NetName=UART7_RX Pin=J1-6
+Added Pin To Net: NetName=I2C2_SDA Pin=J1-7
+Added Pin To Net: NetName=UART7_TX Pin=J1-8
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR

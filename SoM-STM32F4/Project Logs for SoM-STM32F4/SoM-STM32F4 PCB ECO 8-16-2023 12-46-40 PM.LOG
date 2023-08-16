@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=DAC_OUT1 Pin=J2-13
+Removed Pin From Net: NetName=CAN_H Pin=J2-14
+Removed Pin From Net: NetName=DAC_OUT2 Pin=J2-15
+Removed Pin From Net: NetName=CAN_L Pin=J2-16
+Removed Pin From Net: NetName=DAC_EXTI9 Pin=J2-17
+Removed Pin From Net: NetName=CAN_SPLIT Pin=J2-18
+Added Pin To Net: NetName=CAN_H Pin=J2-13
+Added Pin To Net: NetName=DAC_OUT1 Pin=J2-14
+Added Pin To Net: NetName=CAN_L Pin=J2-15
+Added Pin To Net: NetName=DAC_OUT2 Pin=J2-16
+Added Pin To Net: NetName=CAN_SPLIT Pin=J2-17
+Added Pin To Net: NetName=DAC_EXTI9 Pin=J2-18
+Added Member To Class: ClassName=04 MCU Member=Component C22 100nF/50V
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR

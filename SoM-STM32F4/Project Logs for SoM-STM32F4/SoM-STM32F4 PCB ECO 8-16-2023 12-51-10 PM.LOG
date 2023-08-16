@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=Ethernet_LED1 Pin=J2-7
+Removed Pin From Net: NetName=GND Pin=J2-8
+Removed Pin From Net: NetName=Ethernet_LED2 Pin=J2-9
+Removed Pin From Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=Ethernet_LED1 Pin=J2-8
+Added Pin To Net: NetName=Ethernet_LED2 Pin=J2-10
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR

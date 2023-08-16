@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DAC_EXTI9 Pin=J1-14
+Removed Pin From Net: NetName=GND Pin=J1-16
+Removed Pin From Net: NetName=DAC_OUT1 Pin=J2-14
+Removed Pin From Net: NetName=DAC_OUT2 Pin=J2-16
+Removed Pin From Net: NetName=DAC_EXTI9 Pin=J2-18
+Added Pin To Net: NetName=PE2 Pin=J1-6
+Added Pin To Net: NetName=PE4 Pin=J1-8
+Added Pin To Net: NetName=PE5 Pin=J1-10
+Added Pin To Net: NetName=PE6 Pin=J1-12
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=SPI2_MISO Pin=J1-16
+Added Pin To Net: NetName=GND Pin=J1-20

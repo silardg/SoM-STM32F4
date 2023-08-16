@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=I2C2_SCL Pin=J1-5
+Removed Pin From Net: NetName=I2C2_SDA Pin=J1-7
+Added Pin To Net: NetName=I2C2_SDA Pin=J1-5
+Added Pin To Net: NetName=I2C2_SCL Pin=J1-7
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR

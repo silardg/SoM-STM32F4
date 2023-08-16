@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=DAC_OUT1 Pin=J1-10
+Removed Pin From Net: NetName=PE2 Pin=J1-30
+Removed Pin From Net: NetName=PE4 Pin=J1-32
+Removed Pin From Net: NetName=PE5 Pin=J1-34
+Removed Pin From Net: NetName=PE6 Pin=J1-36
+Added Pin To Net: NetName=GND Pin=J1-32
+Added Pin To Net: NetName=DAC_OUT2 Pin=J1-34
+Added Pin To Net: NetName=DAC_OUT1 Pin=J1-36
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR
