@@ -134,24 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=DVPGSYGZ
 
 [Document6]
-DocumentPath=Sch\06 NOR Memory.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EMZYURPS
-
-[Document7]
-DocumentPath=Sch\07 eMMC.SchDoc
+DocumentPath=Sch\06 eMMC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -167,8 +150,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJENWLVC
 
-[Document8]
-DocumentPath=Sch\08 Secure Element.SchDoc
+[Document7]
+DocumentPath=Sch\07 Secure Element.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -184,8 +167,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UVZGSNVK
 
-[Document9]
-DocumentPath=Sch\09 Ethernet.SchDoc
+[Document8]
+DocumentPath=Sch\08 Ethernet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -201,8 +184,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FQTRLNPH
 
-[Document10]
-DocumentPath=Sch\10 CAN Bus.SchDoc
+[Document9]
+DocumentPath=Sch\09 CAN Bus.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -218,8 +201,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BTWOZXJU
 
-[Document11]
-DocumentPath=Sch\11 CONNECTOR.SchDoc
+[Document10]
+DocumentPath=Sch\10 CONNECTOR.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -235,7 +218,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EAXDBKPS
 
-[Document12]
+[Document11]
 DocumentPath=PCB\SoM-STM32F4.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -252,7 +235,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSNWGPYT
 
-[Document13]
+[Document12]
 DocumentPath=Sch\05 SDRAM.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -269,8 +252,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
-DocumentPath=Sch\07 eMMC.Harness
+[Document13]
+DocumentPath=Sch\06 eMMC.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -286,7 +269,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document14]
 DocumentPath=Sch\04 MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -303,8 +286,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document15]
+DocumentPath=Sch\07 Secure Element.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Document16]
-DocumentPath=Sch\08 Secure Element.Harness
+DocumentPath=Sch\09 CAN Bus.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -321,7 +321,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document17]
-DocumentPath=Sch\10 CAN Bus.Harness
+DocumentPath=Sch\08 Ethernet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -338,7 +338,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document18]
-DocumentPath=Sch\09 Ethernet.Harness
+DocumentPath=Sch\10 CONNECTOR.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -355,23 +355,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=Sch\11 CONNECTOR.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
 DocumentPath=Sch\03 POWER.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
