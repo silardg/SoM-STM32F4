@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=CLEAR Member=ADC1_IN8
+Removed Member From Class: ClassName=CLEAR Member=ADC1_IN9
+Removed Member From Class: ClassName=CLEAR Member=ADC2_IN0
+Removed Member From Class: ClassName=CLEAR Member=ADC2_IN6
+Removed Member From Class: ClassName=CLEAR Member=ADC3_IN6
+Removed Member From Class: ClassName=CLEAR Member=ADC3_IN7
+Removed Member From Class: ClassName=CLEAR Member=ADC3_IN8
+Removed Member From Class: ClassName=CLEAR Member=CAN_H
+Removed Member From Class: ClassName=CLEAR Member=CAN_L
+Removed Member From Class: ClassName=CLEAR Member=CAN_SPLIT
+Removed Member From Class: ClassName=CLEAR Member=DAC_EXTI9
+Removed Member From Class: ClassName=CLEAR Member=DAC_OUT1
+Removed Member From Class: ClassName=CLEAR Member=DAC_OUT2
+Removed Member From Class: ClassName=CLEAR Member=Ethernet_LED1
+Removed Member From Class: ClassName=CLEAR Member=Ethernet_LED2
+Removed Member From Class: ClassName=CLEAR Member=Ethernet_RX_N
+Removed Member From Class: ClassName=CLEAR Member=Ethernet_RX_P
+Removed Member From Class: ClassName=CLEAR Member=Ethernet_TX_N
+Removed Member From Class: ClassName=CLEAR Member=Ethernet_TX_P
+Removed Member From Class: ClassName=CLEAR Member=I2C2_SCL
+Removed Member From Class: ClassName=CLEAR Member=I2C2_SDA
+Removed Member From Class: ClassName=CLEAR Member=PE2
+Removed Member From Class: ClassName=CLEAR Member=PE4
+Removed Member From Class: ClassName=CLEAR Member=PE5
+Removed Member From Class: ClassName=CLEAR Member=PE6
+Removed Member From Class: ClassName=CLEAR Member=SPI2_CE0
+Removed Member From Class: ClassName=CLEAR Member=SPI2_CE1
+Removed Member From Class: ClassName=CLEAR Member=SPI2_MISO
+Removed Member From Class: ClassName=CLEAR Member=SPI2_MOSI
+Removed Member From Class: ClassName=CLEAR Member=SPI2_SCK
+Removed Member From Class: ClassName=CLEAR Member=STM_NRST
+Removed Member From Class: ClassName=CLEAR Member=SYS_JTCK_SWCLK
+Removed Member From Class: ClassName=CLEAR Member=SYS_JTDI
+Removed Member From Class: ClassName=CLEAR Member=SYS_JTDO_SWO
+Removed Member From Class: ClassName=CLEAR Member=SYS_JTMS_SWDIO
+Removed Member From Class: ClassName=CLEAR Member=SYS_JTRST
+Removed Member From Class: ClassName=CLEAR Member=UART7_RX
+Removed Member From Class: ClassName=CLEAR Member=UART7_TX
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR

@@ -1,0 +1,14 @@
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_LED1
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_LED2
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_RX_N
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_RX_P
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_TX_N
+Added Member To Class: ClassName=CLEAR Member=Wire Ethernet_TX_P
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=07 eMMC
+Added Room: Name=08 Secure Element
+Added Room: Name=09 Ethernet
+Added Room: Name=10 CAN Bus
+Added Room: Name=11 CONNECTOR
