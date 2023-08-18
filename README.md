@@ -16,5 +16,7 @@ The size of the board is 60mm x 45mm with an 8 layer stackup.
 - **CAN Bus** - LTC2875HDD#TRPBF
 
 ## Board Views
+### Top View
 ![Top](SoM-STM32F4/Docs/Top.png)
+### Bottom View
 ![Bottom](SoM-STM32F4/Docs/Bottom.png)
