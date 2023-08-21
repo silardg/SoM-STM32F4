@@ -43,6 +43,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=Manufacture
 
 [Preferences]
 PrefsVaultGUID=
@@ -355,23 +356,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document19]
-DocumentPath=Sch\03 POWER.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
 DocumentPath=Docs\Stackup.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -388,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAQNPBVJ
 
-[Document21]
+[Document20]
 DocumentPath=Docs\SoM-STM32F4.PCBDwf
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -405,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOFLXVJJ
 
-[Document22]
+[Document21]
 DocumentPath=Settings\Output.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -421,6 +405,16 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=50CAE553-AC6F-4D4F-9466-8FA3C745530F
+Description=Manufacture
+AllowFabrication=0
+ParameterCount=0
+VariationCount=2
+Variation1=Designator=R6|UniqueId=\YRBHFZXB|Kind=1|AlternatePart= 
+Variation2=Designator=R5|UniqueId=\ZWGTEKMR|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for SoM-STM32F4\Design Rule Check - SoM-STM32F4.html

@@ -1,0 +1,14 @@
+Change Net Name : Old Net Name=5V_POWER New Net Name=+5V
+Change Class Name : Old Net Name=07 eMMC New Net Name=06 eMMC
+Change Class Name : Old Net Name=08 Secure Element New Net Name=07 Secure Element
+Change Class Name : Old Net Name=09 Ethernet New Net Name=08 Ethernet
+Change Class Name : Old Net Name=10 CAN Bus New Net Name=09 CAN Bus
+Change Class Name : Old Net Name=11 CONNECTOR New Net Name=10 CONNECTOR
+Added Room: Name=03 POWER
+Added Room: Name=04 MCU
+Added Room: Name=05 SDRAM
+Added Room: Name=06 eMMC
+Added Room: Name=07 Secure Element
+Added Room: Name=08 Ethernet
+Added Room: Name=09 CAN Bus
+Added Room: Name=10 CONNECTOR
